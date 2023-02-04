@@ -8,3 +8,4 @@ $number=12;
 //value=>operand
 $number =(3-1)/2;
 echo $number;
+
