@@ -27,7 +27,7 @@ echo ("\n");
 $m=123;
 $n=12;
 
-printf("Two number is: \n %05d \n %05d",$m,$n);///// sm digit korar jnno %05 use kor hoice
+printf("Two number is: \n %05d \n %05d",$m,$n);///// sm digit korar jnno %05 use kor hoice updated
 
 
 echo "\n";
